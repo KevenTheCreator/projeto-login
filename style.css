@@ -48,7 +48,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(imagens/imagem-fundo.jpg);
+    background: #5f2c82 url(imagens/predio-fundo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left bottom;
